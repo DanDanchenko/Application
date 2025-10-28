@@ -1,0 +1,548 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\CS\\EventManagementSystem\\frontend\\frontend\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\CS\\EventManagementSystem\\frontend\\frontend\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\dtos\\events\\eventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\dtos\\events\\eventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\dtos\\events\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\dtos\\events\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\dtos\\events\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\dtos\\events\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\data\\eventsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\data\\eventsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\eventmanagement.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\eventmanagement.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\validators\\eventcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\validators\\eventcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\validators\\eventupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\validators\\eventupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\validators\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\validators\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|d:\\projects\\cs\\eventmanagementsystem\\backend\\eventmanagement\\eventmanagement.api\\eventmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDC8930B-2422-41AE-9ADF-013796A195D1}|EventManagement.API\\EventManagement.API.csproj|solutionrelative:eventmanagement.api\\eventmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 276,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{75504045-d02f-44e5-bf60-5f60df380e8b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\frontend\\frontend\\src\\styles.css",
+              "RelativeDocumentMoniker": "..\\..\\frontend\\frontend\\src\\styles.css",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\frontend\\frontend\\src\\styles.css",
+              "RelativeToolTip": "..\\..\\frontend\\frontend\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-23T16:53:12.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\frontend\\frontend\\src\\app\\app.css",
+              "RelativeDocumentMoniker": "..\\..\\frontend\\frontend\\src\\app\\app.css",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\frontend\\frontend\\src\\app\\app.css",
+              "RelativeToolTip": "..\\..\\frontend\\frontend\\src\\app\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-23T16:18:50.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Services\\EventService.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Services\\EventService.cs",
+              "RelativeToolTip": "EventManagement.API\\Services\\EventService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:43:40.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EventManagement.API\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIBJwGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:36:03.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventCreateDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\DTOs\\Events\\EventCreateDto.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\DTOs\\Events\\EventCreateDto.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\DTOs\\Events\\EventCreateDto.cs",
+              "RelativeToolTip": "EventManagement.API\\DTOs\\Events\\EventCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:30:03.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventUpdateDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\DTOs\\Events\\EventUpdateDto.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\DTOs\\Events\\EventUpdateDto.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\DTOs\\Events\\EventUpdateDto.cs",
+              "RelativeToolTip": "EventManagement.API\\DTOs\\Events\\EventUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:30:28.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Models\\Event.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Models\\Event.cs",
+              "RelativeToolTip": "EventManagement.API\\Models\\Event.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vwoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T11:34:00.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\DTOs\\Events\\EventDto.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\DTOs\\Events\\EventDto.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\DTOs\\Events\\EventDto.cs",
+              "RelativeToolTip": "EventManagement.API\\DTOs\\Events\\EventDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBQwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:30:58.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Services\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Services\\Interfaces\\IEventService.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Services\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "EventManagement.API\\Services\\Interfaces\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwBEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:40:48.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Services\\TokenService.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Services\\TokenService.cs",
+              "RelativeToolTip": "EventManagement.API\\Services\\TokenService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBQwB0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:46:05.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "EventManagement.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIBQwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:43:11.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EventManagement.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBQwAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:33:19.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Services\\Interfaces\\ITokenService.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "EventManagement.API\\Services\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:41:52.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EventManagement.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\appsettings.Development.json",
+              "RelativeToolTip": "EventManagement.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-18T15:32:19.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EventManagement.API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\appsettings.json",
+              "RelativeToolTip": "EventManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-18T15:32:16.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "EventManagement.API\\DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:27:05.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "EventManagement.API\\DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:28:06.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "EventManagement.API\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:52:13.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Models\\User.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Models\\User.cs",
+              "RelativeToolTip": "EventManagement.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T11:11:00.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Program.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Program.cs",
+              "RelativeToolTip": "EventManagement.API\\Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAIBJwGIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T10:52:11.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "EventManagement.API\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:40:01.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Models\\Participant.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Models\\Participant.cs",
+              "RelativeToolTip": "EventManagement.API\\Models\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T11:46:57.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventsManagementContext.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Data\\EventsManagementContext.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Data\\EventsManagementContext.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Data\\EventsManagementContext.cs",
+              "RelativeToolTip": "EventManagement.API\\Data\\EventsManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T12:06:36.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventManagement.API",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\EventManagement.API.csproj",
+              "RelativeDocumentMoniker": "EventManagement.API\\EventManagement.API.csproj",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\EventManagement.API.csproj",
+              "RelativeToolTip": "EventManagement.API\\EventManagement.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T13:39:27.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EventCreateDtoValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Validators\\EventCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Validators\\EventCreateDtoValidator.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Validators\\EventCreateDtoValidator.cs",
+              "RelativeToolTip": "EventManagement.API\\Validators\\EventCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:33:06.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EventUpdateDtoValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Validators\\EventUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Validators\\EventUpdateDtoValidator.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Validators\\EventUpdateDtoValidator.cs",
+              "RelativeToolTip": "EventManagement.API\\Validators\\EventUpdateDtoValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBQwBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:33:47.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginDtoValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Validators\\LoginDtoValidator.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Validators\\LoginDtoValidator.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Validators\\LoginDtoValidator.cs",
+              "RelativeToolTip": "EventManagement.API\\Validators\\LoginDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:32:04.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterDtoValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Validators\\RegisterDtoValidator.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Validators\\RegisterDtoValidator.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Validators\\RegisterDtoValidator.cs",
+              "RelativeToolTip": "EventManagement.API\\Validators\\RegisterDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwA8AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:31:22.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "EventManagement.API\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "EventManagement.API\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:35:56.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EventManagement.API.csproj",
+              "DocumentMoniker": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\EventManagement.API.csproj",
+              "RelativeDocumentMoniker": "EventManagement.API\\EventManagement.API.csproj",
+              "ToolTip": "D:\\Projects\\CS\\EventManagementSystem\\backend\\EventManagement\\EventManagement.API\\EventManagement.API.csproj",
+              "RelativeToolTip": "EventManagement.API\\EventManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T10:58:18.683Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 116,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
