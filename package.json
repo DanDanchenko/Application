@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.16"
+  },
+  "dependencies": {
+    "@angular/cdk": "^20.2.10",
+    "@angular/material": "^20.2.10",
+    "@fullcalendar/angular": "^6.1.19",
+    "@fullcalendar/daygrid": "^6.1.19",
+    "@fullcalendar/interaction": "^6.1.19",
+    "@fullcalendar/timegrid": "^6.1.19",
+    "bootstrap": "^5.3.8",
+    "ngx-bootstrap": "^20.0.2"
+  }
+}
